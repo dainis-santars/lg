@@ -15,9 +15,13 @@ Vajag uzinstalēt **YouTube AdFree** aplikāciju televizorā. Tam vajag Hombrew 
    ![Developer Mode](IMG_5380.jpg "klacklac")
    
 ***NB!*** Te ir svarīgi 2 parametri: **IP adrese** un **Passphrase**. Tos jānoraksta uz papīrīša!
-6. Tagad ir jāpieslēdzas televizoram no ārpuses. Būs nepieciešama aplikācija Device/DevMode Manager for webOS TV. Pieejama Linux, MacOS un Windows (sranais Elecron's). Saite: https://github.com/webosbrew/dev-manager-desktop/. Download sadaļā Jāspiež uz Latest release un jālejupielādē.
-7. Abām ierīcēm (TV un datoram) jābūt vienā tīklā! Tad var pievienot ierīci, veicot vajadzīgās informācijas ievadi. Visu šo darbību mērķis ir Hombrew (sveiciens āboļa lietotājiem) Channel pieskrūvēšana televizoram. Šis kanāls satur alternatīvas aplikācijas.
+
+4. Tagad ir jāpieslēdzas televizoram no ārpuses. Būs nepieciešama aplikācija Device/DevMode Manager for webOS TV. Pieejama Linux, MacOS un Windows (sranais Elecron's). Saite: https://github.com/webosbrew/dev-manager-desktop/. Download sadaļā Jāspiež uz Latest release un jālejupielādē.
+   
+5. Abām ierīcēm (TV un datoram) jābūt vienā tīklā! Tad var pievienot ierīci, veicot vajadzīgās informācijas ievadi. Visu šo darbību mērķis ir Hombrew (sveiciens āboļa lietotājiem) Channel pieskrūvēšana televizoram. Šis kanāls satur alternatīvas aplikācijas.
     ![webos dev manager](webosManager.png "manageris")
-8. Beigās no Hombrew Channel rodas iespēja uzinstalēt aplikāciju YouTube AdFree, kas arī bija visu šo darbību mērķis :) To var izdarīt gan no datora, gan televizorā.
+   
+6. Beigās no Hombrew Channel rodas iespēja uzinstalēt aplikāciju YouTube AdFree, kas arī bija visu šo darbību mērķis :) To var izdarīt gan no datora, gan televizorā.
    ![YouTube AdFree](YTAdFree.png "appa")
-9. Baudam YT bez reklāmām!
+   
+7. Baudam YT bez reklāmām!

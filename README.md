@@ -18,7 +18,7 @@ Vajag uzinstalēt **YouTube AdFree** aplikāciju televizorā. Tam vajag Hombrew 
 
 4. Tagad ir jāpieslēdzas televizoram no ārpuses. Būs nepieciešama aplikācija Device/DevMode Manager for webOS TV. Pieejama Linux, MacOS un Windows (sranais Elecron's). Saite: https://github.com/webosbrew/dev-manager-desktop/. Download sadaļā Jāspiež uz Latest release un jālejupielādē.
    
-5. Abām ierīcēm (TV un datoram) jābūt vienā tīklā! Un jābūt aktīvam Key Server (man bija izslēdzies, nezkāpēc).Tad var pievienot ierīci, veicot vajadzīgās informācijas ievadi. Visu šo darbību mērķis ir Hombrew (sveiciens āboļa lietotājiem) Channel pieskrūvēšana televizoram. Šis kanāls satur alternatīvas aplikācijas.
+5. Abām ierīcēm (TV un datoram) jābūt vienā tīklā! Un jābūt aktīvam Key Server (man bija izslēdzies, nezkāpēc). Tad var pievienot ierīci, veicot vajadzīgās informācijas ievadi. Visu šo darbību mērķis ir Hombrew (sveiciens āboļa lietotājiem) Channel pieskrūvēšana televizoram. Šis kanāls satur alternatīvas aplikācijas.
     ![webos dev manager](webosManager.png "manageris")
    
 6. Beigās no Hombrew Channel rodas iespēja uzinstalēt aplikāciju YouTube AdFree, kas arī bija visu šo darbību mērķis :) To var izdarīt gan no datora, gan televizorā.
